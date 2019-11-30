@@ -1,0 +1,18 @@
+
+.container {	
+	background:#a8c0ff;
+	background: -webkit-linear-gradient (
+	to right, #3f2b96,#a8c0ff);
+	height:100vh;
+	background: linear-gradient (
+	to right, #3f2b96,#a8c0ff);
+	display: flex;
+	align-item:center;
+	justify-content: center;
+}
+
+.test{
+	height: 150px;
+	width:150px;
+	background-color;
+}
